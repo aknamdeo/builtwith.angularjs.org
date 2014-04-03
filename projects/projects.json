@@ -1994,18 +1994,28 @@
       ]
     },
     {
-      "name": "EddyTools - Assessment System",  // will be displayed under the screenshot
-      "thumb": "et-as/thumb.png", // path to the image (omit the projects/ prefix)
-      "desc": "Offline Assessment system for mobile and web application", // One or two sentences
-      "url": "http://www.eddytools.com/assessment-system-demo/", // url to your app
-      "info": "http://www.eddytools.com/assessment-system-demo/", // url to app announcement or background
-      "submitter": "aknamdeo", // your github username
-      "submissionDate": "2014-04-03", // current date in ISO format
+      "name": "EddyTools - Assessment System",  
+      "thumb": "et-as/thumb.png", 
+      "desc": "Offline Assessment system for mobile and web application", 
+      "url": "http://www.eddytools.com/assessment-system-demo/",
+      "info": "http://www.eddytools.com/assessment-system-demo/",
+      "submitter": "aknamdeo", 
+      "submissionDate": "2014-04-03", 
       "tags": [
-        "Demo", "Assessment", "Offline" , "LMS" , "eLearning" // choose your app seriousness level (for plunks or fiddles use "Toy")
-        "Assessment", "Quiz", "Test",
-        "Mobile", "Web", "Desktop", "moodle" // features and technologies
-        "AngularJS" 
+        "Quiz Demo",
+        "Assessment", 
+        "Offline" , 
+        "LMS" , 
+        "eLearning" 
+        "Assessment", 
+        "Quiz", 
+        "Test",
+        "Mobile App", 
+        "Web App", 
+        "Desktop", 
+        "moodle" 
+        "AngularJS" , 
+        "jQuery"
       ]
     }
 
